@@ -4,7 +4,7 @@
 
 ### Demo Youtube Link
 
- - https://www.youtube.com/watch?v=GupMPjmn-24
+ - https://youtu.be/GProGkcH9HQ
  
 ***
 ## Inspiration
