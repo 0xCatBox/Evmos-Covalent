@@ -1,6 +1,6 @@
 <img width="100%" alt="스크린샷 2022-09-20 오후 7 10 46" src="https://user-images.githubusercontent.com/66289619/191286927-1b851426-f511-4d53-a144-dd3919382ecc.png">
 
-# EVMOS-MOMENTUM-HACKATHON-2022
+# EVMOS-COVALENT #OneMillionWallets Hackathon
 
 ## Metaverse(Roblox) ERC20 & ERC721 minting structure
 
